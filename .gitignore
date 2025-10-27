@@ -1,0 +1,15 @@
+venv/
+*.pyc
+__pycache__/
+*.db
+.env
+.idea/
+.DS_Store
+*.sqlite3
+dist/
+*.bak
+*.old
+.envrc
+
+dmp3.py
+dmp4.py

@@ -41,4 +41,4 @@ jobs:
       # Step 5: Run unit tests with mocked download
       - name: Run tests (mocked, offline)
         run: |
-          python -m unittest test_downloader.py -v
+          python -m unittest test_downloader_mocked.py -v
